@@ -1,7 +1,7 @@
 # Data-Mining
 
-## Names of the projects:
+## Homework 1:
 
--scripts.py is the first homework
+-scripts.py is the file with all the exercises
 
 -Submission.pdf is the pdf with all the submissions
