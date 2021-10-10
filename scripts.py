@@ -3,7 +3,6 @@
 
 # # Introduction
 
-# Done 7/7
 
 # In[1]:
 
@@ -98,7 +97,6 @@ for i in range(1, n+1):
 
 # # Basic Data Types
 
-# Done 5/6, 1 copied from the web
 
 # In[ ]:
 
@@ -209,8 +207,6 @@ print(hash(tupla))
 
 
 # # Strings
-
-# Done 11/14, 1 copied, 2 not found
 
 # In[ ]:
 
@@ -438,9 +434,6 @@ if __name__ == '__main__':
 
 
 # # Sets
-
-# Done 10/13, 3 copied
-
 # In[ ]:
 
 
